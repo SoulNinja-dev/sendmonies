@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+lets say, you dont want ur parents knowing that you own crypto.
+so you can store your moni in this dapp, and when u wanna give someone else, just come and transfer it to them ;)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+u can withdraw whenever u want
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+> this is just a fun project i built, dont take it too seriously ( but it does work ofc )
